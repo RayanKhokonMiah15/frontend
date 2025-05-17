@@ -91,7 +91,7 @@ figure {
   display: -moz-inline-stack;
   display: inline-block;
   zoom: 1;
-  *display: inline;
+  display: inline;
   list-style: none;
   font-size: 15px;
 }
@@ -115,13 +115,13 @@ figure {
 }
 
 .fh5co-projects-feed, .footer-content {
-  margin: 0 auto;
+  margin: 100 auto;
   max-width: 1400px;
 }
 
 .fh5co-projects-feed .fh5co-project {
   float: left;
-  margin: 20px 20px 20px;
+  margin: 100px 100px 100px;
   width: 290px;
 }
 @media screen and (max-width: 480px) {
